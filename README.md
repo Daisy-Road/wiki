@@ -1,3 +1,3 @@
 # Daisy Road: Wiki
 
-Toutes les bonnes choses à savoir pioché des messages du discord :p
+Toutes les bonnes choses à savoir pioché des messages provenant de discord variés
