@@ -1,5 +1,5 @@
 ---
-name: Suggérer ajout sur le Wiki
+name: Suggérer un ajout sur le Wiki
 about: Vous avez une idée à ajouter sur le Wiki
 title: Ajout >> TITRE DE LA DEMANDE
 labels: Ajout
