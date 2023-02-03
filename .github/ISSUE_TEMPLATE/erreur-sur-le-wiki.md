@@ -1,7 +1,7 @@
 ---
 name: Erreur sur le Wiki
-about: Describe this issue template's purpose here.
-title: ''
+about: Vous avez lu une fausse information sur le Wiki
+title: Erreur >> TITRE DE LA DEMANDE
 labels: Erreur
 assignees: ''
 
@@ -17,4 +17,4 @@ Indiquez en quoi il s'agit d'une erreur et que l'information est fallacieuse.
 Indiquez comment corriger cette erreur.
 
 **Quelque chose à ajouter**
-Si vous souhaitez ajouter quelque chose, faites le ici
+Si vous souhaitez ajouter quelque chose, faites le ici !
